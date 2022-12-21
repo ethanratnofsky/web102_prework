@@ -21,6 +21,7 @@ body {
 
 .stats-container {
     display: flex;
+    align-items: center;
 }
 
 .stats-card {
